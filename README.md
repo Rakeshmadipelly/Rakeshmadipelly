@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakesh Madipelly</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Graduate from India</h3>
 
 - 🌱 I’m currently learning **Django**
 
